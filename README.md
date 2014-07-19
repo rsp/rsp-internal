@@ -9,5 +9,7 @@ For more useful projects see:
 
 https://github.com/rsp
 
-and look for more useful projects without the "rsp-" prefix
+and look for more useful projects without the "rsp-" prefix in:
+
+https://github.com/rsp?tab=repositories
 
