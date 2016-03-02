@@ -12,3 +12,7 @@ For more useful projects see:
 * https://github.com/rsp?tab=repositories
 
 and look for projects without the "rsp-" prefix in their name.
+
+My Node modules:
+
+* https://www.npmjs.com/~rsp
