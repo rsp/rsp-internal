@@ -16,3 +16,9 @@ and look for projects without the "rsp-" prefix in their name.
 My Node modules:
 
 * https://www.npmjs.com/~rsp
+
+For more info see:
+
+* https://github.com/rsp
+* https://twitter.com/pocztarski
+
