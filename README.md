@@ -2,14 +2,13 @@ rsp-internal
 ============
 
 My projects on GitHub with names starting with "rsp-" prefix
-are my internal projects that are in public repositories
-mostly for backup purposes.
+(not to be confused with rsp suffix or infix)
+are either some experiments, early stage work in progress or
+my internal projects that are in public repositories mostly
+for backup purposes but are unlikely to be useful for enyone else.
 
-For more info see:
+For more useful projects see:
 
-https://github.com/rsp
+* https://github.com/rsp?tab=repositories
 
-and look for more useful projects without the "rsp-" prefix in:
-
-https://github.com/rsp?tab=repositories
-
+and look for projects without the "rsp-" prefix in their name.
