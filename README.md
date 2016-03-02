@@ -13,12 +13,16 @@ For more useful projects see:
 
 and look for projects without the "rsp-" prefix in their name.
 
-My Node modules:
-
-* https://www.npmjs.com/~rsp
-
 For more info see:
 
-* https://github.com/rsp
-* https://twitter.com/pocztarski
-
+[npm](https://www.npmjs.com/~rsp)
+[GitHub](https://github.com/rsp)
+[Twitter](https://twitter.com/pocztarski)
+[Medium](https://medium.com/@pocztarski)
+[LinkedIn](https://www.linkedin.com/in/pocztarski)
+[GoldenLine](https://www.goldenline.pl/rafal-pocztarski/)
+[Facebook](https://www.facebook.com/pocztarski)
+[G+](https://plus.google.com/106457556668508404492)
+[AngelList](https://angel.co/pocztarski)
+[StackExchange](https://stackexchange.com/users/303952/rsp)
+[StackOverflow](https://stackoverflow.com/users/613198/rsp)
