@@ -9,6 +9,10 @@ for backup purposes but are unlikely to be useful for enyone else.
 
 For more useful projects see:
 
+* https://github.com/rsp/rsp-projects
+
+and:
+
 * https://github.com/rsp?tab=repositories
 
 and look for projects without the "rsp-" prefix in their name.
@@ -17,6 +21,7 @@ For more info see:
 
 [npm](https://www.npmjs.com/~rsp)
 [GitHub](https://github.com/rsp)
+[CodePen](https://codepen.io/rsp/)
 [Twitter](https://twitter.com/pocztarski)
 [Medium](https://medium.com/@pocztarski)
 [LinkedIn](https://www.linkedin.com/in/pocztarski)
