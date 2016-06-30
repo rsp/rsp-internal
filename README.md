@@ -1,6 +1,8 @@
 rsp-internal
 ============
 
+https://github.com/rsp/rsp-internal
+
 My projects on GitHub with names starting with "rsp-" prefix
 (not to be confused with rsp suffix or infix)
 are either some experiments, early stage work in progress or
